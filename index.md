@@ -23,14 +23,16 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/hjken/examples/blob/master/percentmap.html) and ![Image](src)
+[Link](https://github.com/hjken/examples/blob/master/percentmap.html) and ![Image](https://github.com/hjken/examples/blob/master/vKYtable.html)
 ```
+![GitHub Logo](https://github.com/hjken/examples/blob/master/percentmap.html)
+Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hjken/examples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hjken/examples/blob/master/vKYtable.html). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
